@@ -16,5 +16,4 @@ plt.show()
 # artist layer
 fig = plt.figure()
 ax = plt.subplots()
-
-
+plt.plot(x, y, 'o-')
